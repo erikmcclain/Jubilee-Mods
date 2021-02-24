@@ -1,0 +1,5 @@
+
+M98  P"/macros/NeoPixelOn"						; Set tool offsets from the bed. In separate file so test macro can invoke.
+
+G1 Z35.5
+G1 X48.300 Y199.900 F6000
