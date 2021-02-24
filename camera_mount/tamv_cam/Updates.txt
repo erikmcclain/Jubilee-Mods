@@ -1,0 +1,12 @@
+Updated the camera base to be a bit thicker and added magnet pockets
+Added a diffuser for the led ring light 
+
+
+Parts
+DIYmall 16 Bits 16 X WS2812 5050 RGB LED Ring Lamp Light with Integrated Drivers
+https://www.amazon.com/gp/product/B0105VMWRM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+Logitech C270
+https://www.amazon.com/gp/product/B004FHO5Y6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+
