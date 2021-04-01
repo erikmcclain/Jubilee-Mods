@@ -1,8 +1,8 @@
 # Carriage Assembly Mods.
 There are 3 Goals to this mod
-	1. Use heated inserts where possible instead of threading into plastic so things like replacing the Z switch easier
-	2. Connect the front and back carriage plates over the crossbar to stablize the belt connection point
-	3. Incorporate Mr. Hobbits mod for tool lock detection.
+1. Use heated inserts where possible instead of threading into plastic so things like replacing the Z switch easier
+2. Connect the front and back carriage plates over the crossbar to stablize the belt connection point
+3. Incorporate Mr. Hobbits mod for tool lock detection.
 	
 	
 Individual step and stl files are saved for the front back and center top and bottom plates, the whole fusion project is saved as crossbar_mod_V##
